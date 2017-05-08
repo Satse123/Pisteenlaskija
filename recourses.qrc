@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>Media/saannot.pdf</file>
+        <file>Media/tausta.bmp</file>
+        <file>Media/propestuart.txt</file>
+    </qresource>
+</RCC>
